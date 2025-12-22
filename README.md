@@ -1,45 +1,82 @@
-## Hi welcome fellow traveller , I'm sadima! a wizard-engineer
+## Hi there 👋 I’m **Sadima**
+### 👩‍💻 Explorer • Adventurer • AI/ML Enthusiast | Undergraduate | Sri Lanka 🇱🇰  
 
-**Undergraduate** | **Sri Lanka** 
+Welcome to my GitHub 💜  
+I’m an explorer at heart — constantly learning, experimenting, and diving into the worlds of  
+**Artificial Intelligence, Machine Learning, and emerging technologies**.  
+I enjoy turning curiosity into code and research into real-world impact.
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack  
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=cpp,css,js,java,html,py,powershell,php,react,nodejs,arduino,mysql,aws,googlecloud,heroku,digitalocean,netlify,oracle,figma,blender,photoshop,premiere,illustrator,aftereffects,windows,vscode,spline&theme=dark&perline=8" />
-
-
+  <img src="https://skillicons.dev/icons?i=cpp,css,js,java,html,py,powershell,php,nodejs,arduino,mysql,aws,googlecloud,heroku,digitalocean,netlify,oracle,opencv,figma,capcut,windows,vscode,spline&theme=dark&perline=8" />
 </div>
 
-**Technologies I use:** OpenCV, Cisco, FreeCAD, Adobe Creative Suite, TypeScript,spline
-
----
-
-## 📊 GitHub Stats
-
 <div align="center">
-  
-![Godragun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=godragun&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=godragun&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=godragun&theme=radical)
-
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
 </div>
 
 ---
 
-## 🤝 Let's Collaborate!
+## 🧠 Focus Areas  
 
-- [x] I'm on a continuous journey of learning and honing my skills. If you have exciting project suggestions or collaboration ideas, feel free to drop them in my inbox! 🌤✨
-
----
-
-## 📫 Contact Me
-
-**Email:** harendrathennakoon28@gmail.com
+- 🤖 Artificial Intelligence & Machine Learning  
+- 📊 Data-driven problem solving  
+- 🧪 Research, experimentation & innovation  
+- 📝 Research paper & technical writing  
+- 🌱 Continuous learning & exploration  
 
 ---
 
-> *"Avery problem has a solution u just need to find it if u don't know ask help ."*
+## 📊 GitHub Stats 💜  
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=dulakdi&show_icons=true&theme=purple-dark&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dulakdi&layout=compact&theme=purple-dark&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com?user=dulakdi&theme=purple-dark&hide_border=true" />
+
+</div>
+
+---
+
+## 🏆 GitHub Highlights  
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dulakdi&theme=purple_dark" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dulakdi&theme=purple_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dulakdi&theme=purple_dark" />
+</div>
+
+---
+
+## 🤝 Let’s Collaborate 💜  
+
+- 🌍 Open to AI/ML projects, research work, and innovative ideas  
+- 🧠 Love brainstorming, learning, and building meaningful solutions  
+- 🤍 Always happy to collaborate and explore together  
+
+📧 **Email:** **dulakdi@gmail.com**
+
+If you have an idea worth exploring — let’s build it 🚀
+
+---
+
+## ✨ Fun Facts  
+
+- 💜 Loves purple aesthetics & clean layouts  
+- 📚 Enjoys research and academic writing  
+- 🔍 Curious about *how* and *why* things work  
+- 🚀 Always exploring what’s next  
+
+---
+
+> *“Every problem has a solution.  
+Curiosity, learning, and persistence will lead you to it.”* 💜✨
