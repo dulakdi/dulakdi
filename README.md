@@ -1,17 +1,17 @@
 ## Hi there 👋 I’m **Sadima**
-### 👩‍💻 Explorer • Adventurer • AI/ML Enthusiast | Undergraduate | Sri Lanka 🇱🇰  
+### 👩‍💻 Explorer • Adventurer • AI & ML Enthusiast | Undergraduate | Sri Lanka 🇱🇰  
 
 Welcome to my GitHub 💜  
-I’m an explorer at heart — constantly learning, experimenting, and diving into the worlds of  
+I’m an explorer who loves learning, experimenting, and diving into  
 **Artificial Intelligence, Machine Learning, and emerging technologies**.  
-I enjoy turning curiosity into code and research into real-world impact.
+I enjoy coding, researching, and turning curiosity into real solutions.
 
 ---
 
 ## 🛠 Tech Stack  
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,css,js,java,html,py,powershell,php,nodejs,arduino,mysql,aws,googlecloud,heroku,digitalocean,netlify,oracle,opencv,figma,capcut,windows,vscode,spline&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=cpp,css,js,java,html,py,php,nodejs,arduino,mysql,aws,googlecloud,heroku,digitalocean,netlify,opencv,figma,capcut,windows,vscode&theme=dark" />
 </div>
 
 <div align="center">
@@ -20,48 +20,35 @@ I enjoy turning curiosity into code and research into real-world impact.
 
 ---
 
-## 🧠 Focus Areas  
+## 🧠 What I Love Working On  
 
 - 🤖 Artificial Intelligence & Machine Learning  
 - 📊 Data-driven problem solving  
-- 🧪 Research, experimentation & innovation  
-- 📝 Research paper & technical writing  
-- 🌱 Continuous learning & exploration  
+- 🧪 Exploring new technologies  
+- 📝 Research papers & technical writing  
+- 🌱 Continuous learning  
 
 ---
 
-## 📊 GitHub Stats 💜  
+## 📊 GitHub Stats  
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dulakdi&show_icons=true&theme=purple-dark&hide_border=true" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dulakdi&show_icons=true&theme=radical)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dulakdi&layout=compact&theme=purple-dark&hide_border=true" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dulakdi&layout=compact&theme=radical)
 
-<img src="https://streak-stats.demolab.com?user=dulakdi&theme=purple-dark&hide_border=true" />
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dulakdi&theme=radical)
 
-</div>
-
----
-
-## 🏆 GitHub Highlights  
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dulakdi&theme=purple_dark" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dulakdi&theme=purple_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dulakdi&theme=purple_dark" />
 </div>
 
 ---
 
 ## 🤝 Let’s Collaborate 💜  
 
-- 🌍 Open to AI/ML projects, research work, and innovative ideas  
-- 🧠 Love brainstorming, learning, and building meaningful solutions  
-- 🤍 Always happy to collaborate and explore together  
+- 🌍 AI / ML projects & research  
+- 🧠 Brainstorming innovative ideas  
+- 🤍 Learning and building together  
 
 📧 **Email:** **dulakdi@gmail.com**
 
@@ -69,14 +56,5 @@ If you have an idea worth exploring — let’s build it 🚀
 
 ---
 
-## ✨ Fun Facts  
-
-- 💜 Loves purple aesthetics & clean layouts  
-- 📚 Enjoys research and academic writing  
-- 🔍 Curious about *how* and *why* things work  
-- 🚀 Always exploring what’s next  
-
----
-
 > *“Every problem has a solution.  
-Curiosity, learning, and persistence will lead you to it.”* 💜✨
+Curiosity and learning will always lead the way.”* 💜
