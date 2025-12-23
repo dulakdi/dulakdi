@@ -1,5 +1,5 @@
 ## Hi there 👋 I’m **Sadithma**
-### 👩‍💻 Explorer in the amzon of codes • Adventurer in the village of dragons • AI & ML Enthusiast | Undergraduate | Sri Lanka 🇱🇰  
+### 👩‍💻 Explorer in the amzon of codes • Adventurer in the village of dragons • AI & ML Enthusiast | Undergraduate   
 
 Welcome to my GitHub 💜  
 I’m an explorer who loves learning, experimenting, and diving into  
