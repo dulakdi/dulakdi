@@ -58,3 +58,8 @@ If you have an idea worth exploring — let’s build it 🚀
 
 > *“Every problem has a solution.  
 Curiosity and learning will always lead the way.”* 💜
+
+---
+<div align="center">
+  <img src="https://raw.githubusercontent.com/dulakdi/dulakdi/output/github-contribution-grid-snake-dark.svg" alt="github contribution snake dark" />
+</div>
