@@ -5,21 +5,27 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
-      - uses: Platane/snk@v3
+      - name: Generate snake
+        uses: Platane/snk@v3
         with:
           github_user_name: dulakdi
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-rainbow.svg?palette=github-dark&color_snake=rainbow
 
-      - uses: crazy-max/ghaction-github-pages@v3
+      - name: Push snake
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
